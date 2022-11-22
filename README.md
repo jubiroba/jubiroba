@@ -35,3 +35,27 @@
 <p> Como uma última curiosidade, esses animais sentem os sabores por meio de receptores 	que fucam na parte de baixo das pernas. </p>
 </body>
 </html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="pt-br">
+        <head>
+<meta charset="UTF-8">
+<title>borboletas</title>
+</head>
+
+<img src="file:///tmp/guest-kguoqk/%C3%81rea%20de%20Trabalho/images.jpeg"> 
+
+
+<body style="font-size: 20px">
+        <h1 style="text-align: center"> curiosidades sobre borboletas </h1> 
+
+<p>o corpo de uma <strong> borboleta </strong> é muito leve, as asas são muito largas, mas, mesmo assim ela acaba conseguindo pousar na flor aberta, de onde suga o néctar adocicado. As <strong>borboletas</strong> existem em todas as partes do mundo, com exceção das regiões glaciais.</p>
+
+<p><em>vivem em média de: <strong>15 a 29 dias, segundo sua expectativa de vida.</strong>.</em></p>
+
+<p> Como uma última curiosidade, esses animais sentem os sabores por meio de receptores 	que fucam na parte de baixo das pernas. </p>
+</body>
+</html>
